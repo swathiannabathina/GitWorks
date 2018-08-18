@@ -21,4 +21,10 @@ public class DummyTest
 	{
 		System.out.println("Neelima");
 	}
+	
+	@Test
+	public void Ammulu()
+	{
+		System.out.println("Ammulu");
+	}
 }
