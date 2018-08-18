@@ -1,0 +1,18 @@
+package com.Main;
+
+import org.testng.annotations.Test;
+
+public class DummyTest 
+{
+	@Test
+	public void swathi()
+	{
+		System.out.println("Swathi");
+	}
+	
+	@Test
+	public void Harshi()
+	{
+		System.out.println("Harshi");
+	}
+}

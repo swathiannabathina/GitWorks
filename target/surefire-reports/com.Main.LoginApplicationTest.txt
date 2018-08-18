@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Main.LoginApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.479 s - in com.Main.LoginApplicationTest
