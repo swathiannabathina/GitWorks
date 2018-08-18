@@ -15,4 +15,10 @@ public class DummyTest
 	{
 		System.out.println("Harshi");
 	}
+	
+	@Test
+	public void Neeli()
+	{
+		System.out.println("Neelima");
+	}
 }
