@@ -32,4 +32,10 @@ public class DummyTest
 		System.out.println("Ammulu");
 	}
 	
+	@Test
+	public void Annabathina()
+	{
+		System.out.println("Brahmaiah");
+		System.out.println("Ramanamma");
+	}	
 }
